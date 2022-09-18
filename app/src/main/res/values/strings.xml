@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="Cost_Of_Service">Cost of service</string>
+    <string name="service_question">Como foi o serviço?</string>
+    <string name="AmazingService">Amazing (20%)</string>
+    <string name="GoodService">Good (18%)</string>
+    <string name="OkService">OK (15%)</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Tip_Amount">Tip Amount</string>
+    <string name="bom_18">Bom (18%)</string>
+    <string name="ok_15">Ok (15%)</string>
+    <string name="incrivel_20">Incrivel (20%)</string>
+    <string name="custo_do_servico">Custo do serviço</string>
+    <string name="calcular">Calcular</string>
+    <string name="bora_bill">Bora Bill?</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
